@@ -1,0 +1,6 @@
+memcache:
+  port: 11211
+  servers: 
+    - mc1.example.com
+    - mc2.example.com
+  ttl: <%= 60 * 60 * 30 %>
