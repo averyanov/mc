@@ -13,3 +13,4 @@ end
 gem 'jquery-rails'
 gem 'whenever', require: false
 gem 'rails_config'
+gem 'resque'
