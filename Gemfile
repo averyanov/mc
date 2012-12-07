@@ -16,8 +16,10 @@ gem 'rails_config'
 gem 'resque'
 gem 'twitter-bootstrap-rails'
 gem 'devise'
+gem 'activeadmin'
 
 group :development do
   gem 'mailcatcher'
   gem 'foreman'
 end
+
