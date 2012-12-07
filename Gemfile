@@ -14,3 +14,4 @@ gem 'jquery-rails'
 gem 'whenever', require: false
 gem 'rails_config'
 gem 'resque'
+gem 'twitter-bootstrap-rails'
