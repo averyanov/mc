@@ -1,3 +1,5 @@
+[Презенташка](https://docs.google.com/presentation/d/1AulzRfFiqLyg13YVqRj0cyGGjDVGba0_tPAXFiaIbJE/edit#slide=id.g5b7c5c24_1_0)
+
 ## bundler
 * [http://gembundler.com](http://gembundler.com/)
 
